@@ -1,0 +1,28 @@
+.header {
+    padding: 20px;
+    background-color:mediumslateblue;
+}
+
+.button {
+    background-color:purple;
+    color:black;
+    padding: 30px;
+    display:inline-block;
+    border-radius: 30px;
+    margin: 10px;
+    font-size: 200%;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    margin: 20px;
+}
+
+.columnRight {
+    flex: 50%;
+    margin: 20px;
+}
